@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Recommended Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline text="Tech" title="Tech" type="rss" xmlUrl="feeds/tech.opml" />
+  <outline text="Daily" title="Daily" type="rss" xmlUrl="feeds/daily.opml" />
+  <outline text="AI" title="AI" type="rss" xmlUrl="feeds/ai.opml" />
+  <outline text="Finance" title="Finance" type="rss" xmlUrl="feeds/finance.opml" />
+  <outline text="Security" title="Security" type="rss" xmlUrl="feeds/security.opml" />
+  <outline text="Dev" title="Dev" type="rss" xmlUrl="feeds/dev.opml" />
+  <outline text="Coins" title="Coins" type="rss" xmlUrl="feeds/coins.opml" />
+  <outline text="News" title="News" type="rss" xmlUrl="feeds/news.opml" />
+  <outline text="China" title="China" type="rss" xmlUrl="feeds/china.opml" />
+  <outline text="Korea" title="Korea" type="rss" xmlUrl="feeds/korea.opml" />
+  <outline text="Japan" title="Japan" type="rss" xmlUrl="feeds/japan.opml" />
+  <outline text="Recommend 1" title="Recommend 1" type="rss" xmlUrl="feeds/recommend-1.opml" />
+  <outline text="Recommend 2" title="Recommend 2" type="rss" xmlUrl="feeds/recommend-2.opml" />
+  <outline text="Recommend All" title="Recommend All" type="rss" xmlUrl="feeds/recommend-all.opml" />
+</body>
+</opml>

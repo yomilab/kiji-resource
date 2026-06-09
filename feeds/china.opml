@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi China Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="水瓶纪元" text="水瓶纪元" xmlUrl="https://aquarianhq.substack.com/feed" htmlUrl="https://aquarianhq.substack.com/feed" />
+  <outline type="rss" title="流浪防区" text="流浪防区" xmlUrl="https://www.reddit.com/r/China_irl/.rss" htmlUrl="https://www.reddit.com/r/China_irl/.rss" />
+</body>
+</opml>

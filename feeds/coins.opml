@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Coins Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="@blockchain" text="@blockchain" xmlUrl="https://medium.com/feed/blockchain" htmlUrl="https://medium.com/feed/blockchain" />
+  <outline type="rss" title="Bitcoin in The Coinbase Blog on Medium" text="Bitcoin in The Coinbase Blog on Medium" xmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/bitcoin" htmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/bitcoin" />
+  <outline type="rss" title="Bitcoin Magazine" text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/feed" htmlUrl="https://bitcoinmagazine.com/feed" />
+  <outline type="rss" title="Bitcoin Magazine Pro" text="Bitcoin Magazine Pro" xmlUrl="https://deepdivebtc.substack.com/feed" htmlUrl="https://deepdivebtc.substack.com/feed" />
+  <outline type="rss" title="Bitcoin News" text="Bitcoin News" xmlUrl="https://news.bitcoin.com/feed" htmlUrl="https://news.bitcoin.com/feed" />
+  <outline type="rss" title="Bitcoin Vector Lite" text="Bitcoin Vector Lite" xmlUrl="https://willywoo.substack.com/feed" htmlUrl="https://willywoo.substack.com/feed" />
+  <outline type="rss" title="Blockonomi" text="Blockonomi" xmlUrl="https://blockonomi.com/feed" htmlUrl="https://blockonomi.com/feed" />
+  <outline type="rss" title="Blockworks: News and insights about digital assets." text="Blockworks: News and insights about digital assets." xmlUrl="https://blockworks.co/feed" htmlUrl="https://blockworks.co/feed" />
+  <outline type="rss" title="Cointelegraph.com News" text="Cointelegraph.com News" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com/rss" />
+  <outline type="rss" title="Cointelegraph.com News" text="Cointelegraph.com News" xmlUrl="https://cointelegraph.com/editors_pick_rss" htmlUrl="https://cointelegraph.com/editors_pick_rss" />
+  <outline type="rss" title="Crypto is Easy: Insights for Profitable Investors" text="Crypto is Easy: Insights for Profitable Investors" xmlUrl="https://cryptoiseasy.substack.com/feed" htmlUrl="https://cryptoiseasy.substack.com/feed" />
+  <outline type="rss" title="Cryptocurrency News &amp; Discussion" text="Cryptocurrency News &amp; Discussion" xmlUrl="https://www.reddit.com/r/CryptoCurrency/.rss" htmlUrl="https://www.reddit.com/r/CryptoCurrency/.rss" />
+  <outline type="rss" title="Dogecoin" text="Dogecoin" xmlUrl="https://www.reddit.com/r/dogecoin/.rss" htmlUrl="https://www.reddit.com/r/dogecoin/.rss" />
+  <outline type="rss" title="Ethereum" text="Ethereum" xmlUrl="https://www.reddit.com/r/ethereum/.rss" htmlUrl="https://www.reddit.com/r/ethereum/.rss" />
+  <outline type="rss" title="Ethereum Foundation Blog" text="Ethereum Foundation Blog" xmlUrl="https://blog.ethereum.org/feed.xml" htmlUrl="https://blog.ethereum.org/feed.xml" />
+  <outline type="rss" title="Ethereum Investment &amp; Trading Community" text="Ethereum Investment &amp; Trading Community" xmlUrl="https://www.reddit.com/r/ethtrader/.rss" htmlUrl="https://www.reddit.com/r/ethtrader/.rss" />
+  <outline type="rss" title="glassnode" text="glassnode" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7GjSes-8kQn_Vcg35jfA" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7GjSes-8kQn_Vcg35jfA" />
+  <outline type="rss" title="K33 Research" text="K33 Research" xmlUrl="https://theweeklyupdate.substack.com/feed" htmlUrl="https://theweeklyupdate.substack.com/feed" />
+  <outline type="rss" title="Maria Shen on Medium" text="Maria Shen on Medium" xmlUrl="https://medium.com/feed/@mariashen" htmlUrl="https://medium.com/feed/@mariashen" />
+  <outline type="rss" title="Market Meditations" text="Market Meditations" xmlUrl="https://koroushak.substack.com/feed" htmlUrl="https://koroushak.substack.com/feed" />
+  <outline type="rss" title="r/CryptoTechnology - Serious &amp; Technical Discussion of CC/Blockchain Technology" text="r/CryptoTechnology - Serious &amp; Technical Discussion of CC/Blockchain Technology" xmlUrl="https://www.reddit.com/r/CryptoTechnology/.rss" htmlUrl="https://www.reddit.com/r/CryptoTechnology/.rss" />
+  <outline type="rss" title="Rekt Capital Newsletter" text="Rekt Capital Newsletter" xmlUrl="https://rektcapital.substack.com/feed" htmlUrl="https://rektcapital.substack.com/feed" />
+  <outline type="rss" title="Stories by b1995 on Medium" text="Stories by b1995 on Medium" xmlUrl="https://medium.com/feed/@b1995" htmlUrl="https://medium.com/feed/@b1995" />
+  <outline type="rss" title="The Held Report" text="The Held Report" xmlUrl="https://www.theheldreport.com/feed" htmlUrl="https://www.theheldreport.com/feed" />
+  <outline type="rss" title="Web 3" text="Web 3" xmlUrl="https://www.reddit.com/r/web3/.rss" htmlUrl="https://www.reddit.com/r/web3/.rss" />
+  <outline type="rss" title="動區動趨-最具影響力的區塊鏈新聞媒體" text="動區動趨-最具影響力的區塊鏈新聞媒體" xmlUrl="https://www.blocktempo.com/feed" htmlUrl="https://www.blocktempo.com/feed" />
+  <outline type="rss" title="區塊勢" text="區塊勢" xmlUrl="https://blocktrend.substack.com/feed" htmlUrl="https://blocktrend.substack.com/feed" />
+</body>
+</opml>

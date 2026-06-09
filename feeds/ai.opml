@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Ai Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="AI News &amp; Artificial Intelligence | TechCrunch" text="AI News &amp; Artificial Intelligence | TechCrunch" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" htmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" />
+  <outline type="rss" title="AI Supremacy" text="AI Supremacy" xmlUrl="https://www.ai-supremacy.com/feed" htmlUrl="https://www.ai-supremacy.com/feed" />
+  <outline type="rss" title="LocalLlama" text="LocalLlama" xmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss" htmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss" />
+</body>
+</opml>

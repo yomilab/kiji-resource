@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Security Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="😂 Schneier on Security" text="😂 Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="http://www.schneier.com/blog/index.rdf" />
+  <outline type="rss" title="Almost Secure" text="Almost Secure" xmlUrl="https://palant.info/rss.xml" htmlUrl="https://palant.info/rss.xml" />
+  <outline type="rss" title="Cisco Umbrella" text="Cisco Umbrella" xmlUrl="http://feeds.opendns.com/OpendnsBlog" htmlUrl="http://feeds.opendns.com/OpendnsBlog" />
+  <outline type="rss" title="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" text="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://feeds.feedburner.com/darknethackers" />
+  <outline type="rss" title="Embrace The Red" text="Embrace The Red" xmlUrl="https://embracethered.com/blog/index.xml" htmlUrl="https://embracethered.com/blog/index.xml" />
+  <outline type="rss" title="Krebs on Security" text="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed" htmlUrl="http://krebsonsecurity.com/feed" />
+  <outline type="rss" title="Null Sweep" text="Null Sweep" xmlUrl="https://nullsweep.com/rss" htmlUrl="https://nullsweep.com/rss" />
+  <outline type="rss" title="Project Zero" text="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" />
+  <outline type="rss" title="Stories by iYouPort on Medium" text="Stories by iYouPort on Medium" xmlUrl="https://medium.com/feed/@iyouport" htmlUrl="https://medium.com/feed/@iyouport" />
+  <outline type="rss" title="The Hacker News" text="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/feeds/posts/default" />
+  <outline type="rss" title="The latest security news for developers - The GitHub Blog" text="The latest security news for developers - The GitHub Blog" xmlUrl="https://github.blog/category/security/feed" htmlUrl="https://github.blog/category/security/feed" />
+</body>
+</opml>

@@ -1,0 +1,12 @@
+{
+  "name": "kiji-resource",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/validate-opml.mjs",
+    "export": "node scripts/export-from-app-db.mjs",
+    "aggregate": "node scripts/aggregate-recommend-all.mjs"
+  }
+}

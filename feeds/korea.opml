@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Korea Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="경향신문:전체기사" text="경향신문:전체기사" xmlUrl="https://www.khan.co.kr/rss/rssdata/total_news.xml" htmlUrl="https://www.khan.co.kr/rss/rssdata/total_news.xml" />
+  <outline type="rss" title="국제" text="국제" xmlUrl="https://www.newsis.com/RSS/international.xml" htmlUrl="https://www.newsis.com/RSS/international.xml" />
+</body>
+</opml>

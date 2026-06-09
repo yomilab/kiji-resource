@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi News Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="All Content from Business Insider" text="All Content from Business Insider" xmlUrl="https://www.businessinsider.com/rss" htmlUrl="https://www.businessinsider.com/rss" />
+  <outline type="rss" title="BBC News world-asia" text="BBC News world-asia" xmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" htmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" />
+  <outline type="rss" title="Briefing" text="Briefing" xmlUrl="https://www.economist.com/briefing/rss.xml" htmlUrl="https://www.economist.com/briefing/rss.xml" />
+  <outline type="rss" title="CBSNews Home" text="CBSNews Home" xmlUrl="https://www.cbsnews.com/latest/rss/main" htmlUrl="https://www.cbsnews.com/latest/rss/main" />
+  <outline type="rss" title="DW" text="DW" xmlUrl="https://rss.dw.com/rdf/rss-chi-all" htmlUrl="https://rss.dw.com/rdf/rss-chi-all" />
+  <outline type="rss" title="Feed: All Latest" text="Feed: All Latest" xmlUrl="https://www.wired.com/feed" htmlUrl="https://www.wired.com/feed" />
+  <outline type="rss" title="FTChinese RSS - All Feed" text="FTChinese RSS - All Feed" xmlUrl="https://www.ftchinese.com/rss/feed" htmlUrl="https://www.ftchinese.com/rss/feed" />
+  <outline type="rss" title="FTChinese RSS - Hot Weekly" text="FTChinese RSS - Hot Weekly" xmlUrl="https://www.ftchinese.com/rss/hotstoryby7day" htmlUrl="https://www.ftchinese.com/rss/hotstoryby7day" />
+  <outline type="rss" title="Internal Tech Emails" text="Internal Tech Emails" xmlUrl="https://www.techemails.com/feed" htmlUrl="https://www.techemails.com/feed" />
+  <outline type="rss" title="JSTOR Daily" text="JSTOR Daily" xmlUrl="https://daily.jstor.org/feed" htmlUrl="https://daily.jstor.org/feed" />
+  <outline type="rss" title="Nice News" text="Nice News" xmlUrl="https://nicenews.com/feed" htmlUrl="https://nicenews.com/feed" />
+  <outline type="rss" title="popular links" text="popular links" xmlUrl="https://www.reddit.com/r/popular/.rss" htmlUrl="https://www.reddit.com/r/popular/.rss" />
+  <outline type="rss" title="SciTechDaily" text="SciTechDaily" xmlUrl="https://scitechdaily.com/feed" htmlUrl="https://scitechdaily.com/feed" />
+  <outline type="rss" title="TECH NEWS" text="TECH NEWS" xmlUrl="https://www.reddit.com/r/technews/.rss" htmlUrl="https://www.reddit.com/r/technews/.rss" />
+  <outline type="rss" title="TechCrunch" text="TechCrunch" xmlUrl="https://techcrunch.com/feed" htmlUrl="https://techcrunch.com/feed" />
+  <outline type="rss" title="TorrentFreak" text="TorrentFreak" xmlUrl="http://feeds.feedburner.com/Torrentfreak" htmlUrl="http://feeds.feedburner.com/Torrentfreak" />
+  <outline type="rss" title="日经中文网" text="日经中文网" xmlUrl="http://cn.nikkei.com/rss.html" htmlUrl="http://cn.nikkei.com/rss.html" />
+  <outline type="rss" title="石川カオリ的日本時事まとめ翻譯 🏳️‍🌈" text="石川カオリ的日本時事まとめ翻譯 🏳️‍🌈" xmlUrl="https://changyuchieh.com/feed" htmlUrl="https://changyuchieh.com/feed" />
+  <outline type="rss" title="纽约时报中文网 国际纵览" text="纽约时报中文网 国际纵览" xmlUrl="https://cn.nytimes.com/rss" htmlUrl="https://cn.nytimes.com/rss" />
+</body>
+</opml>

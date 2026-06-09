@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Dev Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="Android Developers Blog" text="Android Developers Blog" xmlUrl="https://android-developers.googleblog.com/atom.xml" htmlUrl="https://android-developers.googleblog.com/atom.xml" />
+  <outline type="rss" title="From the Trenches" text="From the Trenches" xmlUrl="https://techtrenches.dev/feed" htmlUrl="https://techtrenches.dev/feed" />
+  <outline type="rss" title="Google The Keyword" text="Google The Keyword" xmlUrl="https://blog.google/rss" htmlUrl="https://blog.google/rss" />
+  <outline type="rss" title="TechSoda" text="TechSoda" xmlUrl="https://techsoda.substack.com/feed" htmlUrl="https://techsoda.substack.com/feed" />
+  <outline type="rss" title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" />
+  <outline type="rss" title="The Type — 文字 / 设计 / 文化" text="The Type — 文字 / 设计 / 文化" xmlUrl="https://www.thetype.com/feed/" htmlUrl="https://www.thetype.com/feed/" />
+</body>
+</opml>

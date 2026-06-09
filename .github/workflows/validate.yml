@@ -1,0 +1,40 @@
+name: Validate OPML
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm test
+
+  aggregate-recommend-all:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm run aggregate
+      - name: Commit recommend-all if changed
+        run: |
+          if git diff --quiet feeds/recommend-all.opml; then
+            echo "recommend-all.opml is up to date"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add feeds/recommend-all.opml
+            git commit -m "chore: regenerate recommend-all from category feeds"
+            git push
+          fi

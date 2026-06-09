@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>KiJi Japan Feeds</title>
+<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+</head>
+<body>
+  <outline type="rss" title="😍 美的.com - Yahoo!ニュース" text="😍 美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" />
+  <outline type="rss" title="BuzzFeed Japan - Yahoo!ニュース" text="BuzzFeed Japan - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" />
+  <outline type="rss" title="Forbes JAPAN" text="Forbes JAPAN" xmlUrl="https://news.yahoo.co.jp/rss/media/forbes/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/forbes/all.xml" />
+  <outline type="rss" title="GQ JAPAN - Yahoo!ニュース" text="GQ JAPAN - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" />
+  <outline type="rss" title="Lifehacking.jp" text="Lifehacking.jp" xmlUrl="https://lifehacking.jp/index.xml" htmlUrl="https://lifehacking.jp/index.xml" />
+  <outline type="rss" title="NHK Easier" text="NHK Easier" xmlUrl="https://nhkeasier.com/feed/" htmlUrl="https://nhkeasier.com/feed/" />
+  <outline type="rss" title="NHKニュース" text="NHKニュース" xmlUrl="https://www3.nhk.or.jp/rss/news/cat0.xml" htmlUrl="https://www3.nhk.or.jp/rss/news/cat0.xml" />
+  <outline type="rss" title="The Japan Times" text="The Japan Times" xmlUrl="https://www.japantimes.co.jp/feed" htmlUrl="https://www.japantimes.co.jp/feed" />
+  <outline type="rss" title="Tokyo Art Beat - Yahoo!ニュース" text="Tokyo Art Beat - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/tartbeat/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/tartbeat/all.xml" />
+  <outline type="rss" title="Yahoo!ニュース - 主要" text="Yahoo!ニュース - 主要" xmlUrl="https://news.yahoo.co.jp/rss/topics/top-picks.xml" htmlUrl="https://news.yahoo.co.jp/rss/topics/top-picks.xml" />
+  <outline type="rss" title="Yahoo!ニュース・ 経済" text="Yahoo!ニュース・ 経済" xmlUrl="https://news.yahoo.co.jp/rss/topics/business.xml" htmlUrl="https://news.yahoo.co.jp/rss/topics/business.xml" />
+  <outline type="rss" title="Yahoo!ニュース・トピックス - 国内" text="Yahoo!ニュース・トピックス - 国内" xmlUrl="https://news.yahoo.co.jp/rss/topics/domestic.xml" htmlUrl="https://news.yahoo.co.jp/rss/topics/domestic.xml" />
+  <outline type="rss" title="文春オンライン - Yahoo!ニュース" text="文春オンライン - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bunshun/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bunshun/all.xml" />
+  <outline type="rss" title="東洋経済オンライン | 社会をよくする経済ニュース" text="東洋経済オンライン | 社会をよくする経済ニュース" xmlUrl="https://toyokeizai.net/list/feed/rss" htmlUrl="https://toyokeizai.net/list/feed/rss" />
+</body>
+</opml>
