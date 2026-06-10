@@ -26,7 +26,7 @@ const parseFeedOutlines = (opmlText) => {
     feeds.push({
       title: readAttr('title') || readAttr('text') || xmlUrl,
       url: xmlUrl,
-      emoji: readAttr('kijiFeedEmoji'),
+      emoji: readAttr('kijiEmoji') || readAttr('kijiFeedEmoji') || readAttr('kijiStationEmoji'),
     });
   }
 

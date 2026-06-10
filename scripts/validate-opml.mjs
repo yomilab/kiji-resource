@@ -3,6 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { COMMON_CATEGORIES } from './lib/categories.mjs';
+import { titleStartsWithEmoji } from './lib/emoji-label.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -24,6 +25,35 @@ const SPECIAL_FILES = new Set([
 ]);
 
 const categoryXmlUrls = new Map();
+
+const readOutlineAttr = (attrs, name) => {
+  const match = attrs.match(new RegExp(`${name}="([^"]*)"`));
+  return match ? match[1] : '';
+};
+
+const validateOutlineEmojiLabels = (text, relativePath) => {
+  const errors = [];
+  const outlinePattern = /<outline\b([^>]*)(\/?)>/g;
+
+  for (const match of text.matchAll(outlinePattern)) {
+    const attrs = match[1];
+    const title = readOutlineAttr(attrs, 'title') || readOutlineAttr(attrs, 'text');
+    if (!title || !titleStartsWithEmoji(title)) {
+      continue;
+    }
+
+    const emojiAttr = 'kijiEmoji';
+    if (!readOutlineAttr(attrs, emojiAttr)
+      && !readOutlineAttr(attrs, 'kijiFeedEmoji')
+      && !readOutlineAttr(attrs, 'kijiStationEmoji')) {
+      errors.push(`${relativePath}: title starts with emoji but missing ${emojiAttr}: ${title}`);
+    } else {
+      errors.push(`${relativePath}: title still contains leading emoji: ${title}`);
+    }
+  }
+
+  return errors;
+};
 
 const extractXmlUrls = (text) => {
   const urls = [];
@@ -68,7 +98,10 @@ const validateOpml = async (relativePath) => {
     }
   }
 
-  return errors.map((error) => `${relativePath}: ${error}`);
+  return [
+    ...errors.map((error) => `${relativePath}: ${error}`),
+    ...validateOutlineEmojiLabels(text, relativePath),
+  ];
 };
 
 const discoverOpmlFiles = async () => {

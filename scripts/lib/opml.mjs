@@ -14,17 +14,16 @@ const normalizeLabel = (value) => {
 export const buildFeedOutline = (feed) => {
   const title = normalizeLabel(feed.title) || normalizeLabel(feed.url);
   const emoji = normalizeLabel(feed.emoji);
-  const label = emoji ? `${emoji} ${title}`.trim() : title;
   const attributes = [
     'type="rss"',
-    `title="${xmlEscape(label)}"`,
-    `text="${xmlEscape(label)}"`,
+    `title="${xmlEscape(title)}"`,
+    `text="${xmlEscape(title)}"`,
     `xmlUrl="${xmlEscape(feed.url)}"`,
     `htmlUrl="${xmlEscape(feed.url)}"`,
   ];
 
-  if (feed.emoji) {
-    attributes.push(`kijiFeedEmoji="${xmlEscape(feed.emoji)}"`);
+  if (emoji) {
+    attributes.push(`kijiEmoji="${xmlEscape(emoji)}"`);
   }
 
   return `<outline ${attributes.join(' ')} />`;
@@ -33,15 +32,14 @@ export const buildFeedOutline = (feed) => {
 export const buildStationOutline = (tag, feeds) => {
   const stationName = normalizeLabel(tag.name);
   const emoji = normalizeLabel(tag.emoji);
-  const stationLabel = emoji ? `${emoji} ${stationName}`.trim() : stationName;
   const stationAttrs = [
-    `title="${xmlEscape(stationLabel)}"`,
-    `text="${xmlEscape(stationLabel)}"`,
-    `kijiStationName="${xmlEscape(tag.name)}"`,
+    `title="${xmlEscape(stationName)}"`,
+    `text="${xmlEscape(stationName)}"`,
+    `kijiStationName="${xmlEscape(stationName)}"`,
   ];
 
-  if (tag.emoji) {
-    stationAttrs.push(`kijiStationEmoji="${xmlEscape(tag.emoji)}"`);
+  if (emoji) {
+    stationAttrs.push(`kijiEmoji="${xmlEscape(emoji)}"`);
   }
 
   const feedLines = feeds.map((feed) => `    ${buildFeedOutline(feed)}`);

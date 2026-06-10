@@ -5,8 +5,8 @@
 <dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
 </head>
 <body>
-  <outline title="🍣 Japan" text="🍣 Japan" kijiStationName="🍣 Japan">
-    <outline type="rss" title="😍 美的.com - Yahoo!ニュース" text="😍 美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" />
+  <outline title="Japan" text="Japan" kijiStationName="Japan" kijiEmoji="🍣">
+    <outline type="rss" title="美的.com - Yahoo!ニュース" text="美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" kijiEmoji="😍" />
     <outline type="rss" title="BuzzFeed Japan - Yahoo!ニュース" text="BuzzFeed Japan - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" />
     <outline type="rss" title="Forbes JAPAN" text="Forbes JAPAN" xmlUrl="https://news.yahoo.co.jp/rss/media/forbes/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/forbes/all.xml" />
     <outline type="rss" title="GQ JAPAN - Yahoo!ニュース" text="GQ JAPAN - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" />
@@ -21,16 +21,16 @@
     <outline type="rss" title="文春オンライン - Yahoo!ニュース" text="文春オンライン - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bunshun/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bunshun/all.xml" />
     <outline type="rss" title="東洋経済オンライン | 社会をよくする経済ニュース" text="東洋経済オンライン | 社会をよくする経済ニュース" xmlUrl="https://toyokeizai.net/list/feed/rss" htmlUrl="https://toyokeizai.net/list/feed/rss" />
   </outline>
-  <outline title="🏣 Community" text="🏣 Community" kijiStationName="🏣 Community">
+  <outline title="Community" text="Community" kijiStationName="Community" kijiEmoji="🏣">
     <outline type="rss" title="Entrepreneur" text="Entrepreneur" xmlUrl="https://www.reddit.com/r/Entrepreneur/.rss" htmlUrl="https://www.reddit.com/r/Entrepreneur/.rss" />
   </outline>
-  <outline title="💥 AI" text="💥 AI" kijiStationName="💥 AI">
+  <outline title="AI" text="AI" kijiStationName="AI" kijiEmoji="💥">
     <outline type="rss" title="AI News &amp; Artificial Intelligence | TechCrunch" text="AI News &amp; Artificial Intelligence | TechCrunch" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" htmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" />
     <outline type="rss" title="AI Supremacy" text="AI Supremacy" xmlUrl="https://www.ai-supremacy.com/feed" htmlUrl="https://www.ai-supremacy.com/feed" />
     <outline type="rss" title="LocalLlama" text="LocalLlama" xmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss" htmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss" />
   </outline>
-  <outline title="💰 Finance" text="💰 Finance" kijiStationName="💰 Finance">
-    <outline type="rss" title="😀 The Lens" text="😀 The Lens" xmlUrl="https://stephaniekelton.substack.com/feed" htmlUrl="https://stephaniekelton.substack.com/feed" />
+  <outline title="Finance" text="Finance" kijiStationName="Finance" kijiEmoji="💰">
+    <outline type="rss" title="The Lens" text="The Lens" xmlUrl="https://stephaniekelton.substack.com/feed" htmlUrl="https://stephaniekelton.substack.com/feed" kijiEmoji="😀" />
     <outline type="rss" title="All-In Podcast" text="All-In Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg" />
     <outline type="rss" title="ARK Invest" text="ARK Invest" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg" />
     <outline type="rss" title="C&amp;K GO!" text="C&amp;K GO!" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH3ZKc_neKSAHkjeQga0cRQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH3ZKc_neKSAHkjeQga0cRQ" />
@@ -42,7 +42,7 @@
     <outline type="rss" title="王海滨的财经闲谈" text="王海滨的财经闲谈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZv9RhYScgYU_PqGVbhZ2lw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZv9RhYScgYU_PqGVbhZ2lw" />
     <outline type="rss" title="阳光财经" text="阳光财经" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2I5em6UyBpQiO-8ZW0nV3w" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2I5em6UyBpQiO-8ZW0nV3w" />
   </outline>
-  <outline title="📚 Read" text="📚 Read" kijiStationName="📚 Read">
+  <outline title="Read" text="Read" kijiStationName="Read" kijiEmoji="📚">
     <outline type="rss" title="Abhishek Chakraborty" text="Abhishek Chakraborty" xmlUrl="https://coffeeandjunk.com/rss" htmlUrl="https://coffeeandjunk.com/rss" />
     <outline type="rss" title="Alex MacArthur&apos;s Blog" text="Alex MacArthur&apos;s Blog" xmlUrl="https://macarthur.me/rss/feed.xml" htmlUrl="https://macarthur.me/rss/feed.xml" />
     <outline type="rss" title="artforum.com" text="artforum.com" xmlUrl="https://www.artforum.com.cn/rss" htmlUrl="https://www.artforum.com.cn/rss" />
@@ -70,7 +70,7 @@
     <outline type="rss" title="白板报" text="白板报" xmlUrl="https://wangpei.me/atom.xml" htmlUrl="https://wangpei.me/atom.xml" />
     <outline type="rss" title="翻倒巷小书房 的 bilibili 动态" text="翻倒巷小书房 的 bilibili 动态" xmlUrl="https://feeds.feedburner.com/rssh-steller/QeSFunMoqoc" htmlUrl="https://feeds.feedburner.com/rssh-steller/QeSFunMoqoc" />
   </outline>
-  <outline title="📦 Vault" text="📦 Vault" kijiStationName="📦 Vault">
+  <outline title="Vault" text="Vault" kijiStationName="Vault" kijiEmoji="📦">
     <outline type="rss" title="amuse on 𝕏 by Alexander Muse" text="amuse on 𝕏 by Alexander Muse" xmlUrl="https://politiquerepublic.substack.com/feed" htmlUrl="https://politiquerepublic.substack.com/feed" />
     <outline type="rss" title="Coinmonks - Medium" text="Coinmonks - Medium" xmlUrl="https://medium.com/feed/coinmonks" htmlUrl="https://medium.com/feed/coinmonks" />
     <outline type="rss" title="Level Up Coding - Medium" text="Level Up Coding - Medium" xmlUrl="https://levelup.gitconnected.com/feed" htmlUrl="https://levelup.gitconnected.com/feed" />
@@ -87,7 +87,7 @@
     <outline type="rss" title="Stories by Quant Galore on Medium" text="Stories by Quant Galore on Medium" xmlUrl="https://medium.com/feed/@quant-galore" htmlUrl="https://medium.com/feed/@quant-galore" />
     <outline type="rss" title="Stories by Trey Huffine on Medium" text="Stories by Trey Huffine on Medium" xmlUrl="https://medium.com/feed/@treyhuffine" htmlUrl="https://medium.com/feed/@treyhuffine" />
   </outline>
-  <outline title="📺 Video" text="📺 Video" kijiStationName="📺 Video">
+  <outline title="Video" text="Video" kijiStationName="Video" kijiEmoji="📺">
     <outline type="rss" title="3Blue1Brown 的 bilibili 动态" text="3Blue1Brown 的 bilibili 动态" xmlUrl="https://feeds.feedburner.com/rssh-steller/expcn15NbIK" htmlUrl="https://feeds.feedburner.com/rssh-steller/expcn15NbIK" />
     <outline type="rss" title="Bitcoin Magazine" text="Bitcoin Magazine" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg" />
     <outline type="rss" title="GaryVee" text="GaryVee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCctXZhXmG-kf3tlIXgVZUlw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCctXZhXmG-kf3tlIXgVZUlw" />
@@ -106,8 +106,8 @@
     <outline type="rss" title="undefined 的 bilibili 空间" text="undefined 的 bilibili 空间" xmlUrl="https://feeds.feedburner.com/rss/4ai7vfdf7rh" htmlUrl="https://feeds.feedburner.com/rss/4ai7vfdf7rh" />
     <outline type="rss" title="Wisdom Bread 智慧麵包" text="Wisdom Bread 智慧麵包" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-qwAKnBVzUlbNwol3UCZIA" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-qwAKnBVzUlbNwol3UCZIA" />
   </outline>
-  <outline title="🔐 Security" text="🔐 Security" kijiStationName="🔐 Security">
-    <outline type="rss" title="😂 Schneier on Security" text="😂 Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="http://www.schneier.com/blog/index.rdf" />
+  <outline title="Security" text="Security" kijiStationName="Security" kijiEmoji="🔐">
+    <outline type="rss" title="Schneier on Security" text="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="http://www.schneier.com/blog/index.rdf" kijiEmoji="😂" />
     <outline type="rss" title="Almost Secure" text="Almost Secure" xmlUrl="https://palant.info/rss.xml" htmlUrl="https://palant.info/rss.xml" />
     <outline type="rss" title="Cisco Umbrella" text="Cisco Umbrella" xmlUrl="http://feeds.opendns.com/OpendnsBlog" htmlUrl="http://feeds.opendns.com/OpendnsBlog" />
     <outline type="rss" title="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" text="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://feeds.feedburner.com/darknethackers" />
@@ -119,7 +119,7 @@
     <outline type="rss" title="The Hacker News" text="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/feeds/posts/default" />
     <outline type="rss" title="The latest security news for developers - The GitHub Blog" text="The latest security news for developers - The GitHub Blog" xmlUrl="https://github.blog/category/security/feed" htmlUrl="https://github.blog/category/security/feed" />
   </outline>
-  <outline title="🤖 Tech" text="🤖 Tech" kijiStationName="🤖 Tech">
+  <outline title="Tech" text="Tech" kijiStationName="Tech" kijiEmoji="🤖">
     <outline type="rss" title="A Life Engineered" text="A Life Engineered" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" />
     <outline type="rss" title="All posts | by Robin" text="All posts | by Robin" xmlUrl="https://robinwinslow.uk/rss" htmlUrl="https://robinwinslow.uk/rss" />
     <outline type="rss" title="Aphyr: Posts" text="Aphyr: Posts" xmlUrl="http://aphyr.com/posts.atom" htmlUrl="http://aphyr.com/posts.atom" />
@@ -261,19 +261,19 @@
     <outline type="rss" title="酷 壳 – CoolShell" text="酷 壳 – CoolShell" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn/feed" />
     <outline type="rss" title="面向信仰编程" text="面向信仰编程" xmlUrl="http://draveness.me/rss" htmlUrl="http://draveness.me/rss" />
   </outline>
-  <outline title="🥛 Daily" text="🥛 Daily" kijiStationName="🥛 Daily">
-    <outline type="rss" title="⭐️ Economist" text="⭐️ Economist" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" htmlUrl="https://www.economist.com/finance-and-economics/rss.xml" />
-    <outline type="rss" title="⭐️ giansegato" text="⭐️ giansegato" xmlUrl="https://giansegato.com/index.xml" htmlUrl="https://giansegato.com/index.xml" />
-    <outline type="rss" title="⭐️ Hacker News" text="⭐️ Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="http://news.ycombinator.com/rss" />
-    <outline type="rss" title="⭐️ Raptitude" text="⭐️ Raptitude" xmlUrl="https://www.raptitude.com/feed" htmlUrl="https://www.raptitude.com/feed" />
-    <outline type="rss" title="⭐️ 徒步的騎手" text="⭐️ 徒步的騎手" xmlUrl="https://caminodetexas.substack.com/feed" htmlUrl="https://caminodetexas.substack.com/feed" />
-    <outline type="rss" title="⭐️ 閭丘露薇’s Substack" text="⭐️ 閭丘露薇’s Substack" xmlUrl="https://roseluqiu.substack.com/feed" htmlUrl="https://roseluqiu.substack.com/feed" />
-    <outline type="rss" title="⭐️ 阮一峰的网络日志" text="⭐️ 阮一峰的网络日志" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng" />
-    <outline type="rss" title="📚 Five Books" text="📚 Five Books" xmlUrl="https://fivebooks.com/feed" htmlUrl="https://fivebooks.com/feed" />
-    <outline type="rss" title="📟 Chromium Blog" text="📟 Chromium Blog" xmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" />
-    <outline type="rss" title="📟 Google Chrome Developer Blog" text="📟 Google Chrome Developer Blog" xmlUrl="https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml" htmlUrl="https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml" />
-    <outline type="rss" title="📟 The Pragmatic Engineer" text="📟 The Pragmatic Engineer" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com/feed" />
-    <outline type="rss" title="📟 V8" text="📟 V8" xmlUrl="https://v8.dev/blog.atom" htmlUrl="https://v8.dev/blog.atom" />
+  <outline title="Daily" text="Daily" kijiStationName="Daily" kijiEmoji="🥛">
+    <outline type="rss" title="Economist" text="Economist" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" htmlUrl="https://www.economist.com/finance-and-economics/rss.xml" kijiEmoji="⭐️" />
+    <outline type="rss" title="giansegato" text="giansegato" xmlUrl="https://giansegato.com/index.xml" htmlUrl="https://giansegato.com/index.xml" kijiEmoji="⭐️" />
+    <outline type="rss" title="Hacker News" text="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="http://news.ycombinator.com/rss" kijiEmoji="⭐️" />
+    <outline type="rss" title="Raptitude" text="Raptitude" xmlUrl="https://www.raptitude.com/feed" htmlUrl="https://www.raptitude.com/feed" kijiEmoji="⭐️" />
+    <outline type="rss" title="徒步的騎手" text="徒步的騎手" xmlUrl="https://caminodetexas.substack.com/feed" htmlUrl="https://caminodetexas.substack.com/feed" kijiEmoji="⭐️" />
+    <outline type="rss" title="閭丘露薇’s Substack" text="閭丘露薇’s Substack" xmlUrl="https://roseluqiu.substack.com/feed" htmlUrl="https://roseluqiu.substack.com/feed" kijiEmoji="⭐️" />
+    <outline type="rss" title="阮一峰的网络日志" text="阮一峰的网络日志" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng" kijiEmoji="⭐️" />
+    <outline type="rss" title="Five Books" text="Five Books" xmlUrl="https://fivebooks.com/feed" htmlUrl="https://fivebooks.com/feed" kijiEmoji="📚" />
+    <outline type="rss" title="Chromium Blog" text="Chromium Blog" xmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" kijiEmoji="📟" />
+    <outline type="rss" title="Google Chrome Developer Blog" text="Google Chrome Developer Blog" xmlUrl="https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml" htmlUrl="https://conoro.github.io/google-dev-blog-rss/rss/bring_back_reader.xml" kijiEmoji="📟" />
+    <outline type="rss" title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com/feed" kijiEmoji="📟" />
+    <outline type="rss" title="V8" text="V8" xmlUrl="https://v8.dev/blog.atom" htmlUrl="https://v8.dev/blog.atom" kijiEmoji="📟" />
     <outline type="rss" title="404 Media" text="404 Media" xmlUrl="https://www.404media.co/rss" htmlUrl="https://www.404media.co/rss" />
     <outline type="rss" title="Ahead of AI" text="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/feed" />
     <outline type="rss" title="arun rao" text="arun rao" xmlUrl="https://raohacker.com/feed" htmlUrl="https://raohacker.com/feed" />
@@ -318,7 +318,7 @@
     <outline type="rss" title="Ziggurat" text="Ziggurat" xmlUrl="https://zigguratmag.substack.com/feed" htmlUrl="https://zigguratmag.substack.com/feed" />
     <outline type="rss" title="波米和朋友们" text="波米和朋友们" xmlUrl="https://siji.typlog.io/feed" htmlUrl="https://siji.typlog.io/feed" />
   </outline>
-  <outline title="🦈 Trade" text="🦈 Trade" kijiStationName="🦈 Trade">
+  <outline title="Trade" text="Trade" kijiStationName="Trade" kijiEmoji="🦈">
     <outline type="rss" title="AgFunderNews" text="AgFunderNews" xmlUrl="https://agfundernews.com/feed" htmlUrl="https://agfundernews.com/feed" />
     <outline type="rss" title="Breaking News on Seeking Alpha" text="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" htmlUrl="https://seekingalpha.com/market_currents.xml" />
     <outline type="rss" title="Editors&apos; Picks Articles on Seeking Alpha" text="Editors&apos; Picks Articles on Seeking Alpha" xmlUrl="https://seekingalpha.com/tag/editors-picks.xml" htmlUrl="https://seekingalpha.com/tag/editors-picks.xml" />
@@ -328,7 +328,7 @@
     <outline type="rss" title="投资想法" text="投资想法" xmlUrl="https://cn.investing.com/rss/market_overview_investing_ideas.rss" htmlUrl="https://cn.investing.com/rss/market_overview_investing_ideas.rss" />
     <outline type="rss" title="股票分析" text="股票分析" xmlUrl="https://cn.investing.com/rss/stock_Stocks.rss" htmlUrl="https://cn.investing.com/rss/stock_Stocks.rss" />
   </outline>
-  <outline title="🧭 Dev" text="🧭 Dev" kijiStationName="🧭 Dev">
+  <outline title="Dev" text="Dev" kijiStationName="Dev" kijiEmoji="🧭">
     <outline type="rss" title="Android Developers Blog" text="Android Developers Blog" xmlUrl="https://android-developers.googleblog.com/atom.xml" htmlUrl="https://android-developers.googleblog.com/atom.xml" />
     <outline type="rss" title="From the Trenches" text="From the Trenches" xmlUrl="https://techtrenches.dev/feed" htmlUrl="https://techtrenches.dev/feed" />
     <outline type="rss" title="Google The Keyword" text="Google The Keyword" xmlUrl="https://blog.google/rss" htmlUrl="https://blog.google/rss" />
@@ -336,7 +336,7 @@
     <outline type="rss" title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" />
     <outline type="rss" title="The Type — 文字 / 设计 / 文化" text="The Type — 文字 / 设计 / 文化" xmlUrl="https://www.thetype.com/feed/" htmlUrl="https://www.thetype.com/feed/" />
   </outline>
-  <outline title="🪙 Coins" text="🪙 Coins" kijiStationName="🪙 Coins">
+  <outline title="Coins" text="Coins" kijiStationName="Coins" kijiEmoji="🪙">
     <outline type="rss" title="@blockchain" text="@blockchain" xmlUrl="https://medium.com/feed/blockchain" htmlUrl="https://medium.com/feed/blockchain" />
     <outline type="rss" title="Bitcoin in The Coinbase Blog on Medium" text="Bitcoin in The Coinbase Blog on Medium" xmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/bitcoin" htmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/bitcoin" />
     <outline type="rss" title="Bitcoin Magazine" text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/feed" htmlUrl="https://bitcoinmagazine.com/feed" />
@@ -365,7 +365,7 @@
     <outline type="rss" title="動區動趨-最具影響力的區塊鏈新聞媒體" text="動區動趨-最具影響力的區塊鏈新聞媒體" xmlUrl="https://www.blocktempo.com/feed" htmlUrl="https://www.blocktempo.com/feed" />
     <outline type="rss" title="區塊勢" text="區塊勢" xmlUrl="https://blocktrend.substack.com/feed" htmlUrl="https://blocktrend.substack.com/feed" />
   </outline>
-  <outline title="🪧 News" text="🪧 News" kijiStationName="🪧 News">
+  <outline title="News" text="News" kijiStationName="News" kijiEmoji="🪧">
     <outline type="rss" title="All Content from Business Insider" text="All Content from Business Insider" xmlUrl="https://www.businessinsider.com/rss" htmlUrl="https://www.businessinsider.com/rss" />
     <outline type="rss" title="BBC News world-asia" text="BBC News world-asia" xmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" htmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" />
     <outline type="rss" title="Briefing" text="Briefing" xmlUrl="https://www.economist.com/briefing/rss.xml" htmlUrl="https://www.economist.com/briefing/rss.xml" />
