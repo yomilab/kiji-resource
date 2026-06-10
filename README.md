@@ -20,6 +20,7 @@ Recommended RSS feeds for KiJi. Browse by topic or import a bundle into the app.
 | **China** | News and writing from China | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/china.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/china.opml) |
 | **Korea** | News and writing from Korea | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/korea.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/korea.opml) |
 | **Japan** | News and writing from Japan | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/japan.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/japan.opml) |
+| **HN Popular** | Blogs that topped the 2025 Hacker News popularity list — [source](https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b) | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/hn-popular.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/hn-popular.opml) |
 
 ## Curated bundles
 

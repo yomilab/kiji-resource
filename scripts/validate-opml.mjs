@@ -12,12 +12,14 @@ const requiredFiles = [
   'feeds/recommend-1.opml',
   'feeds/recommend-2.opml',
   'feeds/recommend-all.opml',
+  'feeds/hn-popular.opml',
 ];
 
 const SPECIAL_FILES = new Set([
   'feeds/recommend-1.opml',
   'feeds/recommend-2.opml',
   'feeds/recommend-all.opml',
+  'feeds/hn-popular.opml',
   'recommended.opml',
 ]);
 

@@ -16,7 +16,8 @@
   "specialCategories": [
     "recommend-1",
     "recommend-2",
-    "recommend-all"
+    "recommend-all",
+    "hn-popular"
   ],
   "recommendedOpml": "recommended.opml",
   "exportScript": "scripts/export-from-app-db.mjs",
