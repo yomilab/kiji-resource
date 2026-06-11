@@ -2,7 +2,7 @@
 <opml version="2.0">
 <head>
 <title>KiJi Tech Feeds</title>
-<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+<dateModified>Thu, 11 Jun 2026 07:10:40 GMT</dateModified>
 </head>
 <body>
   <outline type="rss" title="A Life Engineered" text="A Life Engineered" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" />
@@ -33,11 +33,9 @@
   <outline type="rss" title="Chainlink Blog" text="Chainlink Blog" xmlUrl="https://blog.chain.link/rss" htmlUrl="https://blog.chain.link/rss" />
   <outline type="rss" title="Chris Coyier" text="Chris Coyier" xmlUrl="https://chriscoyier.net/feed" htmlUrl="https://chriscoyier.net/feed" />
   <outline type="rss" title="Christian Heilmann" text="Christian Heilmann" xmlUrl="https://christianheilmann.com/feed" htmlUrl="https://christianheilmann.com/feed" />
-  <outline type="rss" title="Cloud Native Computing Foundation" text="Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/feed" htmlUrl="https://www.cncf.io/feed" />
   <outline type="rss" title="Coding Horror" text="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="http://feeds.feedburner.com/codinghorror" />
   <outline type="rss" title="Collabora Newsroom RSS Feed" text="Collabora Newsroom RSS Feed" xmlUrl="https://www.collabora.com/newsroom-rss-feed.rss" htmlUrl="https://www.collabora.com/newsroom-rss-feed.rss" />
   <outline type="rss" title="Collaborative Fund" text="Collaborative Fund" xmlUrl="https://feeds.feedburner.com/collabfund" htmlUrl="https://feeds.feedburner.com/collabfund" />
-  <outline type="rss" title="Cong" text="Cong" xmlUrl="https://blog.cong.moe/index.xml" htmlUrl="https://blog.cong.moe/index.xml" />
   <outline type="rss" title="Copper • A blog about conductive layers" text="Copper • A blog about conductive layers" xmlUrl="https://alinpanaitiu.com/index.xml" htmlUrl="https://alinpanaitiu.com/index.xml" />
   <outline type="rss" title="CoRecursive: Coding Stories" text="CoRecursive: Coding Stories" xmlUrl="https://corecursive.com/feed" htmlUrl="https://corecursive.com/feed" />
   <outline type="rss" title="CSS-Tricks" text="CSS-Tricks" xmlUrl="https://css-tricks.com/feed" htmlUrl="https://css-tricks.com/feed" />
@@ -48,7 +46,6 @@
   <outline type="rss" title="dbushell.com (blog)" text="dbushell.com (blog)" xmlUrl="https://dbushell.com/rss.xml" htmlUrl="https://dbushell.com/rss.xml" />
   <outline type="rss" title="DEV Community: Josh Branchaud" text="DEV Community: Josh Branchaud" xmlUrl="https://dev.to/feed/jbranchaud" htmlUrl="https://dev.to/feed/jbranchaud" />
   <outline type="rss" title="Dhole Moments" text="Dhole Moments" xmlUrl="https://soatok.blog/feed" htmlUrl="https://soatok.blog/feed" />
-  <outline type="rss" title="DigitalOcean Community Tutorials" text="DigitalOcean Community Tutorials" xmlUrl="https://www.digitalocean.com/community/tutorials/feed" htmlUrl="https://www.digitalocean.com/community/tutorials/feed" />
   <outline type="rss" title="Discord Blog" text="Discord Blog" xmlUrl="https://discord.com/blog/rss.xml" htmlUrl="https://discord.com/blog/rss.xml" />
   <outline type="rss" title="Elevate" text="Elevate" xmlUrl="https://addyo.substack.com/feed" htmlUrl="https://addyo.substack.com/feed" />
   <outline type="rss" title="Esonhugh_Namespace" text="Esonhugh_Namespace" xmlUrl="https://eson.ninja/atom.xml" htmlUrl="https://eson.ninja/atom.xml" />
@@ -102,10 +99,8 @@
   <outline type="rss" title="PQVST" text="PQVST" xmlUrl="https://pqvst.com/feed.xml" htmlUrl="https://pqvst.com/feed.xml" />
   <outline type="rss" title="Practical Ethics" text="Practical Ethics" xmlUrl="https://blog.practicalethics.ox.ac.uk/feed" htmlUrl="https://blog.practicalethics.ox.ac.uk/feed" />
   <outline type="rss" title="Programming with Mosh" text="Programming with Mosh" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWv7vMbMWH4-V0ZXdmDpPBA" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWv7vMbMWH4-V0ZXdmDpPBA" />
-  <outline type="rss" title="Project Zero" text="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" />
   <outline type="rss" title="Protocol Labs" text="Protocol Labs" xmlUrl="https://protocol.ai/rss.xml" htmlUrl="https://protocol.ai/rss.xml" />
   <outline type="rss" title="pvigier’s blog" text="pvigier’s blog" xmlUrl="https://pvigier.github.io/rss.xml" htmlUrl="https://pvigier.github.io/rss.xml" />
-  <outline type="rss" title="Quanta Magazine" text="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed" htmlUrl="https://api.quantamagazine.org/feed" />
   <outline type="rss" title="Quanta Magazine" text="Quanta Magazine" xmlUrl="https://www.quantamagazine.org/feed" htmlUrl="https://www.quantamagazine.org/feed" />
   <outline type="rss" title="questionable services" text="questionable services" xmlUrl="https://blog.questionable.services/atom.xml" htmlUrl="https://blog.questionable.services/atom.xml" />
   <outline type="rss" title="Raahul&apos;s Blog" text="Raahul&apos;s Blog" xmlUrl="https://www.raahul.me/index.xml" htmlUrl="https://www.raahul.me/index.xml" />

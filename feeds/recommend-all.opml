@@ -2,7 +2,6 @@
 <opml version="2.0">
 <head>
 <title>KiJi Recommend All</title>
-<dateModified>Wed, 10 Jun 2026 10:20:57 GMT</dateModified>
 </head>
 <body>
   <outline type="rss" title="@blockchain" text="@blockchain" xmlUrl="https://medium.com/feed/blockchain" htmlUrl="https://medium.com/feed/blockchain" />
@@ -20,7 +19,6 @@
   <outline type="rss" title="V8" text="V8" xmlUrl="https://v8.dev/blog.atom" htmlUrl="https://v8.dev/blog.atom" kijiEmoji="📟" />
   <outline type="rss" title="The Lens" text="The Lens" xmlUrl="https://stephaniekelton.substack.com/feed" htmlUrl="https://stephaniekelton.substack.com/feed" kijiEmoji="😀" />
   <outline type="rss" title="Schneier on Security" text="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="http://www.schneier.com/blog/index.rdf" kijiEmoji="😂" />
-  <outline type="rss" title="美的.com - Yahoo!ニュース" text="美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" kijiEmoji="😍" />
   <outline type="rss" title="404 Media" text="404 Media" xmlUrl="https://www.404media.co/rss" htmlUrl="https://www.404media.co/rss" />
   <outline type="rss" title="A Life Engineered" text="A Life Engineered" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" />
   <outline type="rss" title="Ahead of AI" text="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/feed" />
@@ -43,7 +41,6 @@
   <outline type="rss" title="Backchannel Latest" text="Backchannel Latest" xmlUrl="https://www.wired.com/category/backchannel/feed" htmlUrl="https://www.wired.com/category/backchannel/feed" />
   <outline type="rss" title="Barkey Wolf Consulting" text="Barkey Wolf Consulting" xmlUrl="https://barkeywolf.consulting/index.xml" htmlUrl="https://barkeywolf.consulting/index.xml" />
   <outline type="rss" title="Basic Apple Guy | Apple Wallpapers, Reviews, and Merch" text="Basic Apple Guy | Apple Wallpapers, Reviews, and Merch" xmlUrl="https://basicappleguy.com/basicappleblog?format=rss" htmlUrl="https://basicappleguy.com/basicappleblog?format=rss" />
-  <outline type="rss" title="BBC News world-asia" text="BBC News world-asia" xmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" htmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" />
   <outline type="rss" title="Ben Hoyt&amp;apos;s technical writing" text="Ben Hoyt&amp;apos;s technical writing" xmlUrl="https://benhoyt.com/writings/rss.xml" htmlUrl="https://benhoyt.com/writings/rss.xml" />
   <outline type="rss" title="benji" text="benji" xmlUrl="https://www.benji.dog/all.xml" htmlUrl="https://www.benji.dog/all.xml" />
   <outline type="rss" title="Better Programming - Medium" text="Better Programming - Medium" xmlUrl="https://betterprogramming.pub/feed" htmlUrl="https://betterprogramming.pub/feed" />
@@ -77,14 +74,12 @@
   <outline type="rss" title="Chris Coyier" text="Chris Coyier" xmlUrl="https://chriscoyier.net/feed" htmlUrl="https://chriscoyier.net/feed" />
   <outline type="rss" title="Christian Heilmann" text="Christian Heilmann" xmlUrl="https://christianheilmann.com/feed" htmlUrl="https://christianheilmann.com/feed" />
   <outline type="rss" title="Cisco Umbrella" text="Cisco Umbrella" xmlUrl="http://feeds.opendns.com/OpendnsBlog" htmlUrl="http://feeds.opendns.com/OpendnsBlog" />
-  <outline type="rss" title="Cloud Native Computing Foundation" text="Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/feed" htmlUrl="https://www.cncf.io/feed" />
   <outline type="rss" title="Coding Horror" text="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="http://feeds.feedburner.com/codinghorror" />
   <outline type="rss" title="Cointelegraph.com News" text="Cointelegraph.com News" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com/rss" />
   <outline type="rss" title="Cointelegraph.com News" text="Cointelegraph.com News" xmlUrl="https://cointelegraph.com/editors_pick_rss" htmlUrl="https://cointelegraph.com/editors_pick_rss" />
   <outline type="rss" title="Collabora Newsroom RSS Feed" text="Collabora Newsroom RSS Feed" xmlUrl="https://www.collabora.com/newsroom-rss-feed.rss" htmlUrl="https://www.collabora.com/newsroom-rss-feed.rss" />
   <outline type="rss" title="Collaborative Fund" text="Collaborative Fund" xmlUrl="https://feeds.feedburner.com/collabfund" htmlUrl="https://feeds.feedburner.com/collabfund" />
   <outline type="rss" title="command center" text="command center" xmlUrl="https://commandcenter.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://commandcenter.blogspot.com/feeds/posts/default?alt=rss" />
-  <outline type="rss" title="Cong" text="Cong" xmlUrl="https://blog.cong.moe/index.xml" htmlUrl="https://blog.cong.moe/index.xml" />
   <outline type="rss" title="Copper • A blog about conductive layers" text="Copper • A blog about conductive layers" xmlUrl="https://alinpanaitiu.com/index.xml" htmlUrl="https://alinpanaitiu.com/index.xml" />
   <outline type="rss" title="CoRecursive: Coding Stories" text="CoRecursive: Coding Stories" xmlUrl="https://corecursive.com/feed" htmlUrl="https://corecursive.com/feed" />
   <outline type="rss" title="Crypto is Easy: Insights for Profitable Investors" text="Crypto is Easy: Insights for Profitable Investors" xmlUrl="https://cryptoiseasy.substack.com/feed" htmlUrl="https://cryptoiseasy.substack.com/feed" />
@@ -102,7 +97,6 @@
   <outline type="rss" title="DEV Community: Josh Branchaud" text="DEV Community: Josh Branchaud" xmlUrl="https://dev.to/feed/jbranchaud" htmlUrl="https://dev.to/feed/jbranchaud" />
   <outline type="rss" title="developer.chrome.com: Blog" text="developer.chrome.com: Blog" xmlUrl="https://developer.chrome.com/static/blog/feed.xml" htmlUrl="https://developer.chrome.com/static/blog/feed.xml" />
   <outline type="rss" title="Dhole Moments" text="Dhole Moments" xmlUrl="https://soatok.blog/feed" htmlUrl="https://soatok.blog/feed" />
-  <outline type="rss" title="DigitalOcean Community Tutorials" text="DigitalOcean Community Tutorials" xmlUrl="https://www.digitalocean.com/community/tutorials/feed" htmlUrl="https://www.digitalocean.com/community/tutorials/feed" />
   <outline type="rss" title="Discord Blog" text="Discord Blog" xmlUrl="https://discord.com/blog/rss.xml" htmlUrl="https://discord.com/blog/rss.xml" />
   <outline type="rss" title="Dogecoin" text="Dogecoin" xmlUrl="https://www.reddit.com/r/dogecoin/.rss" htmlUrl="https://www.reddit.com/r/dogecoin/.rss" />
   <outline type="rss" title="Dr. Fei-Fei Li" text="Dr. Fei-Fei Li" xmlUrl="https://drfeifei.substack.com/feed" htmlUrl="https://drfeifei.substack.com/feed" />
@@ -134,6 +128,7 @@
   <outline type="rss" title="Google The Keyword" text="Google The Keyword" xmlUrl="https://blog.google/rss" htmlUrl="https://blog.google/rss" />
   <outline type="rss" title="GQ JAPAN - Yahoo!ニュース" text="GQ JAPAN - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" />
   <outline type="rss" title="Great Firewall Report - GFW Report on Great Firewall Report" text="Great Firewall Report - GFW Report on Great Firewall Report" xmlUrl="https://gfw.report/index.xml" htmlUrl="https://gfw.report/index.xml" />
+  <outline type="rss" title="Hacker News" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/rss" />
   <outline type="rss" title="Hacking with Swift" text="Hacking with Swift" xmlUrl="https://www.hackingwithswift.com/articles/rss" htmlUrl="https://www.hackingwithswift.com/articles/rss" />
   <outline type="rss" title="halcy log" text="halcy log" xmlUrl="https://halcy.de/blog/feeds/all.atom.xml" htmlUrl="https://halcy.de/blog/feeds/all.atom.xml" />
   <outline type="rss" title="Harry Marr" text="Harry Marr" xmlUrl="https://hmarr.com/feed" htmlUrl="https://hmarr.com/feed" />
@@ -156,7 +151,6 @@
   <outline type="rss" title="learning with yacine" text="learning with yacine" xmlUrl="https://www.yacinemahdid.com/feed" htmlUrl="https://www.yacinemahdid.com/feed" />
   <outline type="rss" title="Lifehacking.jp" text="Lifehacking.jp" xmlUrl="https://lifehacking.jp/index.xml" htmlUrl="https://lifehacking.jp/index.xml" />
   <outline type="rss" title="Linux Journal - The Original Magazine of the Linux Community" text="Linux Journal - The Original Magazine of the Linux Community" xmlUrl="https://www.linuxjournal.com/node/feed" htmlUrl="https://www.linuxjournal.com/node/feed" />
-  <outline type="rss" title="LocalLlama" text="LocalLlama" xmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss" htmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss" />
   <outline type="rss" title="LongPort - 最新资讯" text="LongPort - 最新资讯" xmlUrl="https://longportapp.com/news/feed" htmlUrl="https://longportapp.com/news/feed" />
   <outline type="rss" title="Lyn Alden" text="Lyn Alden" xmlUrl="https://www.lynalden.com/feed" htmlUrl="https://www.lynalden.com/feed" />
   <outline type="rss" title="macwright.com" text="macwright.com" xmlUrl="https://macwright.com/rss.xml" htmlUrl="https://macwright.com/rss.xml" />
@@ -201,11 +195,9 @@
   <outline type="rss" title="PQVST" text="PQVST" xmlUrl="https://pqvst.com/feed.xml" htmlUrl="https://pqvst.com/feed.xml" />
   <outline type="rss" title="Practical Ethics" text="Practical Ethics" xmlUrl="https://blog.practicalethics.ox.ac.uk/feed" htmlUrl="https://blog.practicalethics.ox.ac.uk/feed" />
   <outline type="rss" title="Programming with Mosh" text="Programming with Mosh" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWv7vMbMWH4-V0ZXdmDpPBA" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWv7vMbMWH4-V0ZXdmDpPBA" />
-  <outline type="rss" title="Project Zero" text="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" />
   <outline type="rss" title="Project Zero" text="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" />
   <outline type="rss" title="Protocol Labs" text="Protocol Labs" xmlUrl="https://protocol.ai/rss.xml" htmlUrl="https://protocol.ai/rss.xml" />
   <outline type="rss" title="pvigier’s blog" text="pvigier’s blog" xmlUrl="https://pvigier.github.io/rss.xml" htmlUrl="https://pvigier.github.io/rss.xml" />
-  <outline type="rss" title="Quanta Magazine" text="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed" htmlUrl="https://api.quantamagazine.org/feed" />
   <outline type="rss" title="Quanta Magazine" text="Quanta Magazine" xmlUrl="https://www.quantamagazine.org/feed" htmlUrl="https://www.quantamagazine.org/feed" />
   <outline type="rss" title="questionable services" text="questionable services" xmlUrl="https://blog.questionable.services/atom.xml" htmlUrl="https://blog.questionable.services/atom.xml" />
   <outline type="rss" title="r/CryptoTechnology - Serious &amp;amp; Technical Discussion of CC/Blockchain Technology" text="r/CryptoTechnology - Serious &amp;amp; Technical Discussion of CC/Blockchain Technology" xmlUrl="https://www.reddit.com/r/CryptoTechnology/.rss" htmlUrl="https://www.reddit.com/r/CryptoTechnology/.rss" />
@@ -290,6 +282,7 @@
   <outline type="rss" title="王海滨的财经闲谈" text="王海滨的财经闲谈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZv9RhYScgYU_PqGVbhZ2lw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZv9RhYScgYU_PqGVbhZ2lw" />
   <outline type="rss" title="石川カオリ的日本時事まとめ翻譯 🏳️‍🌈" text="石川カオリ的日本時事まとめ翻譯 🏳️‍🌈" xmlUrl="https://changyuchieh.com/feed" htmlUrl="https://changyuchieh.com/feed" />
   <outline type="rss" title="纽约时报中文网 国际纵览" text="纽约时报中文网 国际纵览" xmlUrl="https://cn.nytimes.com/rss" htmlUrl="https://cn.nytimes.com/rss" />
+  <outline type="rss" title="美的.com - Yahoo!ニュース" text="美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" />
   <outline type="rss" title="菠萝油与天光墟" text="菠萝油与天光墟" xmlUrl="https://ramsayleung.github.io/zh/index.xml" htmlUrl="https://ramsayleung.github.io/zh/index.xml" />
   <outline type="rss" title="酱紫表" text="酱紫表" xmlUrl="https://qust.me/atom.xml" htmlUrl="https://qust.me/atom.xml" />
   <outline type="rss" title="酷 壳 – CoolShell" text="酷 壳 – CoolShell" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn/feed" />

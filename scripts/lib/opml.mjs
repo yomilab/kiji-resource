@@ -46,14 +46,18 @@ export const buildStationOutline = (tag, feeds) => {
   return [`  <outline ${stationAttrs.join(' ')}>`, ...feedLines, '  </outline>'];
 };
 
-export const buildOpmlDocument = (title, bodyLines) => {
-  const dateModified = new Date().toUTCString();
+export const buildOpmlDocument = (title, bodyLines, options = {}) => {
+  const { includeDateModified = true } = options;
+  const headLines = [`<title>${xmlEscape(title)}</title>`];
+  if (includeDateModified) {
+    headLines.push(`<dateModified>${xmlEscape(new Date().toUTCString())}</dateModified>`);
+  }
+
   return [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<opml version="2.0">',
     '<head>',
-    `<title>${xmlEscape(title)}</title>`,
-    `<dateModified>${xmlEscape(dateModified)}</dateModified>`,
+    ...headLines,
     '</head>',
     '<body>',
     ...bodyLines,

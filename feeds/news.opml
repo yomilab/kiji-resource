@@ -2,11 +2,10 @@
 <opml version="2.0">
 <head>
 <title>KiJi News Feeds</title>
-<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+<dateModified>Thu, 11 Jun 2026 07:10:40 GMT</dateModified>
 </head>
 <body>
   <outline type="rss" title="All Content from Business Insider" text="All Content from Business Insider" xmlUrl="https://www.businessinsider.com/rss" htmlUrl="https://www.businessinsider.com/rss" />
-  <outline type="rss" title="BBC News world-asia" text="BBC News world-asia" xmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" htmlUrl="https://rsshub-lemon-theta.vercel.app/bbc/world-asia" />
   <outline type="rss" title="Briefing" text="Briefing" xmlUrl="https://www.economist.com/briefing/rss.xml" htmlUrl="https://www.economist.com/briefing/rss.xml" />
   <outline type="rss" title="CBSNews Home" text="CBSNews Home" xmlUrl="https://www.cbsnews.com/latest/rss/main" htmlUrl="https://www.cbsnews.com/latest/rss/main" />
   <outline type="rss" title="DW" text="DW" xmlUrl="https://rss.dw.com/rdf/rss-chi-all" htmlUrl="https://rss.dw.com/rdf/rss-chi-all" />

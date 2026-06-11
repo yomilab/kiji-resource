@@ -24,6 +24,9 @@ const SPECIAL_FILES = new Set([
   'recommended.opml',
 ]);
 
+/** Station-grouped bundles may list the same feed under multiple stations. */
+const MULTI_STATION_FILES = new Set(['feeds/recommend-1.opml', 'feeds/recommend-2.opml']);
+
 const categoryXmlUrls = new Map();
 
 const readOutlineAttr = (attrs, name) => {
@@ -82,11 +85,13 @@ const validateOpml = async (relativePath) => {
 
   const seenInFile = new Set();
   for (const url of extractXmlUrls(text)) {
-    if (seenInFile.has(url)) {
-      errors.push(`duplicate xmlUrl within file: ${url}`);
-      continue;
+    if (!MULTI_STATION_FILES.has(relativePath)) {
+      if (seenInFile.has(url)) {
+        errors.push(`duplicate xmlUrl within file: ${url}`);
+        continue;
+      }
+      seenInFile.add(url);
     }
-    seenInFile.add(url);
 
     if (SPECIAL_FILES.has(relativePath)) continue;
 

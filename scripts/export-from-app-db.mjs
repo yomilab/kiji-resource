@@ -15,6 +15,8 @@ import {
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 import { COMMON_CATEGORIES, TAG_TO_CATEGORY } from './lib/categories.mjs';
+
+const defaultDbPath =
   process.env.KIJI_DB_PATH ||
   path.join(process.env.HOME || '', 'Library/Application Support/com.yomilab.kiji/kiji.db');
 

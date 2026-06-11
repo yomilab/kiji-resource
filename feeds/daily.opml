@@ -2,7 +2,7 @@
 <opml version="2.0">
 <head>
 <title>KiJi Daily Feeds</title>
-<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+<dateModified>Thu, 11 Jun 2026 07:10:40 GMT</dateModified>
 </head>
 <body>
   <outline type="rss" title="Economist" text="Economist" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" htmlUrl="https://www.economist.com/finance-and-economics/rss.xml" kijiEmoji="⭐️" />
@@ -37,6 +37,7 @@
   <outline type="rss" title="future/proof" text="future/proof" xmlUrl="https://letters.thedankoe.com/feed" htmlUrl="https://letters.thedankoe.com/feed" />
   <outline type="rss" title="Google DeepMind News" text="Google DeepMind News" xmlUrl="https://deepmind.com/blog/rss.xml" htmlUrl="https://deepmind.com/blog/rss.xml" />
   <outline type="rss" title="Great Firewall Report - GFW Report on Great Firewall Report" text="Great Firewall Report - GFW Report on Great Firewall Report" xmlUrl="https://gfw.report/index.xml" htmlUrl="https://gfw.report/index.xml" />
+  <outline type="rss" title="Hacker News" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/rss" />
   <outline type="rss" title="Home on Mustapha Hadid" text="Home on Mustapha Hadid" xmlUrl="https://hadid.dev/index.xml" htmlUrl="https://hadid.dev/index.xml" />
   <outline type="rss" title="Human Who Codes" text="Human Who Codes" xmlUrl="https://humanwhocodes.com/feeds/all.xml" htmlUrl="https://humanwhocodes.com/feeds/all.xml" />
   <outline type="rss" title="iyouport" text="iyouport" xmlUrl="https://feeds.feedburner.com/substack/aFq0zzPi59Y" htmlUrl="https://feeds.feedburner.com/substack/aFq0zzPi59Y" />
@@ -48,7 +49,6 @@
   <outline type="rss" title="research!rsc" text="research!rsc" xmlUrl="http://research.swtch.com/feed.atom" htmlUrl="http://research.swtch.com/feed.atom" />
   <outline type="rss" title="Sam Altman" text="Sam Altman" xmlUrl="https://blog.samaltman.com/posts.atom" htmlUrl="https://blog.samaltman.com/posts.atom" />
   <outline type="rss" title="seangoedecke.com RSS feed" text="seangoedecke.com RSS feed" xmlUrl="https://www.seangoedecke.com/rss.xml" htmlUrl="https://www.seangoedecke.com/rss.xml" />
-  <outline type="rss" title="Simon Willison&apos;s Weblog" text="Simon Willison&apos;s Weblog" xmlUrl="https://simonwillison.net/atom/everything" htmlUrl="https://simonwillison.net/atom/everything" />
   <outline type="rss" title="TechCrunch" text="TechCrunch" xmlUrl="https://techcrunch.com/rss" htmlUrl="https://techcrunch.com/rss" />
   <outline type="rss" title="The Asianometry Newsletter" text="The Asianometry Newsletter" xmlUrl="https://www.asianometry.com/feed" htmlUrl="https://www.asianometry.com/feed" />
   <outline type="rss" title="The world this week" text="The world this week" xmlUrl="https://www.economist.com/the-world-this-week/rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/rss.xml" />

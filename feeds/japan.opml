@@ -2,10 +2,9 @@
 <opml version="2.0">
 <head>
 <title>KiJi Japan Feeds</title>
-<dateModified>Tue, 09 Jun 2026 09:55:05 GMT</dateModified>
+<dateModified>Thu, 11 Jun 2026 07:10:40 GMT</dateModified>
 </head>
 <body>
-  <outline type="rss" title="美的.com - Yahoo!ニュース" text="美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" kijiEmoji="😍" />
   <outline type="rss" title="BuzzFeed Japan - Yahoo!ニュース" text="BuzzFeed Japan - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" />
   <outline type="rss" title="Forbes JAPAN" text="Forbes JAPAN" xmlUrl="https://news.yahoo.co.jp/rss/media/forbes/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/forbes/all.xml" />
   <outline type="rss" title="GQ JAPAN - Yahoo!ニュース" text="GQ JAPAN - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/gqjapan/all.xml" />
@@ -19,5 +18,6 @@
   <outline type="rss" title="Yahoo!ニュース・トピックス - 国内" text="Yahoo!ニュース・トピックス - 国内" xmlUrl="https://news.yahoo.co.jp/rss/topics/domestic.xml" htmlUrl="https://news.yahoo.co.jp/rss/topics/domestic.xml" />
   <outline type="rss" title="文春オンライン - Yahoo!ニュース" text="文春オンライン - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bunshun/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bunshun/all.xml" />
   <outline type="rss" title="東洋経済オンライン | 社会をよくする経済ニュース" text="東洋経済オンライン | 社会をよくする経済ニュース" xmlUrl="https://toyokeizai.net/list/feed/rss" htmlUrl="https://toyokeizai.net/list/feed/rss" />
+  <outline type="rss" title="美的.com - Yahoo!ニュース" text="美的.com - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/biteki/all.xml" />
 </body>
 </opml>

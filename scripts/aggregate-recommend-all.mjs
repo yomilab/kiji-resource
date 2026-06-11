@@ -49,7 +49,9 @@ export const aggregateRecommendAll = async (outputRoot = root) => {
 
   const mergedFeeds = sortFeedsByLabel([...byUrl.values()]);
   const bodyLines = mergedFeeds.map((feed) => `  ${buildFeedOutline(feed)}`);
-  const document = buildOpmlDocument('KiJi Recommend All', bodyLines);
+  const document = buildOpmlDocument('KiJi Recommend All', bodyLines, {
+    includeDateModified: false,
+  });
   const outputPath = path.join(feedsDir, 'recommend-all.opml');
   await writeFile(outputPath, document, 'utf8');
 
