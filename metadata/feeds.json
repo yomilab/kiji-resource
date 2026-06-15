@@ -17,7 +17,8 @@
     "recommend-1",
     "recommend-2",
     "recommend-all",
-    "hn-popular"
+    "hn-popular",
+    "awesome-tech-rss"
   ],
   "recommendedOpml": "recommended.opml",
   "exportScript": "scripts/export-from-app-db.mjs",

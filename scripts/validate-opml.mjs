@@ -14,6 +14,7 @@ const requiredFiles = [
   'feeds/recommend-2.opml',
   'feeds/recommend-all.opml',
   'feeds/hn-popular.opml',
+  'feeds/awesome-tech-rss.opml',
 ];
 
 const SPECIAL_FILES = new Set([
@@ -21,6 +22,7 @@ const SPECIAL_FILES = new Set([
   'feeds/recommend-2.opml',
   'feeds/recommend-all.opml',
   'feeds/hn-popular.opml',
+  'feeds/awesome-tech-rss.opml',
   'recommended.opml',
 ]);
 

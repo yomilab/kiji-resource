@@ -21,6 +21,7 @@ Recommended RSS feeds for KiJi. Browse by topic or import a bundle into the app.
 | **Korea** | News and writing from Korea | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/korea.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/korea.opml) |
 | **Japan** | News and writing from Japan | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/japan.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/japan.opml) |
 | **HN Popular** | Blogs that topped the 2025 Hacker News popularity list — [source](https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b) | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/hn-popular.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/hn-popular.opml) |
+| **Awesome Tech RSS** | Startup, science, and technology feeds — [source](https://github.com/tuan3w/awesome-tech-rss) | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/awesome-tech-rss.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/awesome-tech-rss.opml) |
 
 ## Curated bundles
 

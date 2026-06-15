@@ -2,7 +2,7 @@
 <opml version="2.0">
 <head>
 <title>KiJi Recommended Feeds</title>
-<dateModified>Thu, 11 Jun 2026 07:10:40 GMT</dateModified>
+<dateModified>Mon, 15 Jun 2026 03:30:00 GMT</dateModified>
 </head>
 <body>
   <outline text="Tech" title="Tech" type="rss" xmlUrl="feeds/tech.opml" />
@@ -17,6 +17,7 @@
   <outline text="Korea" title="Korea" type="rss" xmlUrl="feeds/korea.opml" />
   <outline text="Japan" title="Japan" type="rss" xmlUrl="feeds/japan.opml" />
   <outline text="HN Popular" title="HN Popular" type="rss" xmlUrl="feeds/hn-popular.opml" />
+  <outline text="Awesome Tech RSS" title="Awesome Tech RSS" type="rss" xmlUrl="feeds/awesome-tech-rss.opml" />
   <outline text="Recommend 1" title="Recommend 1" type="rss" xmlUrl="feeds/recommend-1.opml" />
   <outline text="Recommend 2" title="Recommend 2" type="rss" xmlUrl="feeds/recommend-2.opml" />
   <outline text="Recommend All" title="Recommend All" type="rss" xmlUrl="feeds/recommend-all.opml" />
