@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "id": "awesome-rss-feeds",
+      "name": "Awesome RSS Feeds",
+      "url": "https://github.com/plenaryapp/awesome-rss-feeds",
+      "description": "Curated recommended feeds and country news OPML packs (~500 feeds, 250+ local news sources) from the Plenary app team."
+    }
+  ]
+}

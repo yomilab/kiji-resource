@@ -31,6 +31,14 @@ Recommended RSS feeds for KiJi. Browse by topic or import a bundle into the app.
 | **Recommend 2** | The feeds we reach for most often | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/recommend-2.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/recommend-2.opml) |
 | **Recommend All** | One starter pack across every topic | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/recommend-all.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/recommend-all.opml) |
 
+## External RSS resources
+
+Third-party curated lists we recommend for discovering feeds. Import OPML links from those repos directly into KiJi, or browse their READMEs for individual feed URLs.
+
+| Resource | What's inside | Link |
+| --- | --- | --- |
+| **Awesome RSS Feeds** | Recommended feeds and country news OPML packs (~500 feeds, 250+ local news sources) — [source](https://github.com/plenaryapp/awesome-rss-feeds) | [Browse](https://github.com/plenaryapp/awesome-rss-feeds) |
+
 ## Contributing
 
 Suggestions and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
