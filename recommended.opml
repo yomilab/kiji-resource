@@ -8,12 +8,10 @@
   <outline text="Tech" title="Tech" type="rss" xmlUrl="feeds/tech.opml" />
   <outline text="Daily" title="Daily" type="rss" xmlUrl="feeds/daily.opml" />
   <outline text="AI" title="AI" type="rss" xmlUrl="feeds/ai.opml" />
-  <outline text="Finance" title="Finance" type="rss" xmlUrl="feeds/finance.opml" />
   <outline text="Security" title="Security" type="rss" xmlUrl="feeds/security.opml" />
   <outline text="Dev" title="Dev" type="rss" xmlUrl="feeds/dev.opml" />
   <outline text="Coins" title="Coins" type="rss" xmlUrl="feeds/coins.opml" />
   <outline text="News" title="News" type="rss" xmlUrl="feeds/news.opml" />
-  <outline text="China" title="China" type="rss" xmlUrl="feeds/china.opml" />
   <outline text="Korea" title="Korea" type="rss" xmlUrl="feeds/korea.opml" />
   <outline text="Japan" title="Japan" type="rss" xmlUrl="feeds/japan.opml" />
   <outline text="HN Popular" title="HN Popular" type="rss" xmlUrl="feeds/hn-popular.opml" />

@@ -117,12 +117,10 @@ export const buildRecommendedIndexOpml = () => {
     tech: 'Tech',
     daily: 'Daily',
     ai: 'AI',
-    finance: 'Finance',
     security: 'Security',
     dev: 'Dev',
     coins: 'Coins',
     news: 'News',
-    china: 'China',
     korea: 'Korea',
     japan: 'Japan',
   };

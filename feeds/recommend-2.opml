@@ -10,10 +10,6 @@
     <outline type="rss" title="AI Supremacy" text="AI Supremacy" xmlUrl="https://www.ai-supremacy.com/feed" htmlUrl="https://www.ai-supremacy.com/feed" />
     <outline type="rss" title="Simon Willison&apos;s Weblog" text="Simon Willison&apos;s Weblog" xmlUrl="https://simonwillison.net/atom/everything" htmlUrl="https://simonwillison.net/atom/everything" />
   </outline>
-  <outline title="China" text="China" kijiStationName="China" kijiEmoji="🏮">
-    <outline type="rss" title="水瓶纪元" text="水瓶纪元" xmlUrl="https://aquarianhq.substack.com/feed" htmlUrl="https://aquarianhq.substack.com/feed" />
-    <outline type="rss" title="流浪防区" text="流浪防区" xmlUrl="https://www.reddit.com/r/China_irl/.rss" htmlUrl="https://www.reddit.com/r/China_irl/.rss" />
-  </outline>
   <outline title="Coins" text="Coins" kijiStationName="Coins" kijiEmoji="💰">
     <outline type="rss" title="@blockchain" text="@blockchain" xmlUrl="https://medium.com/feed/blockchain" htmlUrl="https://medium.com/feed/blockchain" />
     <outline type="rss" title="Bitcoin in The Coinbase Blog on Medium" text="Bitcoin in The Coinbase Blog on Medium" xmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/bitcoin" htmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/bitcoin" />
@@ -111,19 +107,6 @@
     <outline type="rss" title="TechSoda" text="TechSoda" xmlUrl="https://techsoda.substack.com/feed" htmlUrl="https://techsoda.substack.com/feed" />
     <outline type="rss" title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" />
     <outline type="rss" title="The Type — 文字 / 设计 / 文化" text="The Type — 文字 / 设计 / 文化" xmlUrl="https://www.thetype.com/feed/" htmlUrl="https://www.thetype.com/feed/" />
-  </outline>
-  <outline title="Finance" text="Finance" kijiStationName="Finance" kijiEmoji="🏦">
-    <outline type="rss" title="The Lens" text="The Lens" xmlUrl="https://stephaniekelton.substack.com/feed" htmlUrl="https://stephaniekelton.substack.com/feed" kijiEmoji="😀" />
-    <outline type="rss" title="All-In Podcast" text="All-In Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg" />
-    <outline type="rss" title="ARK Invest" text="ARK Invest" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg" />
-    <outline type="rss" title="C&amp;K GO!" text="C&amp;K GO!" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH3ZKc_neKSAHkjeQga0cRQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH3ZKc_neKSAHkjeQga0cRQ" />
-    <outline type="rss" title="Lyn Alden" text="Lyn Alden" xmlUrl="https://www.lynalden.com/feed" htmlUrl="https://www.lynalden.com/feed" />
-    <outline type="rss" title="Money Manta的投资频道" text="Money Manta的投资频道" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSATqPKpZQwxh-qZGp2j8-g" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSATqPKpZQwxh-qZGp2j8-g" />
-    <outline type="rss" title="Musings on Markets" text="Musings on Markets" xmlUrl="https://aswathdamodaran.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://aswathdamodaran.blogspot.com/feeds/posts/default?alt=rss" />
-    <outline type="rss" title="Sitewide RSS Feed" text="Sitewide RSS Feed" xmlUrl="https://ark-invest.com/feed" htmlUrl="https://ark-invest.com/feed" />
-    <outline type="rss" title="The Asianometry Newsletter" text="The Asianometry Newsletter" xmlUrl="https://asianometry.substack.com/feed" htmlUrl="https://asianometry.substack.com/feed" />
-    <outline type="rss" title="王海滨的财经闲谈" text="王海滨的财经闲谈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZv9RhYScgYU_PqGVbhZ2lw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZv9RhYScgYU_PqGVbhZ2lw" />
-    <outline type="rss" title="阳光财经" text="阳光财经" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2I5em6UyBpQiO-8ZW0nV3w" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2I5em6UyBpQiO-8ZW0nV3w" />
   </outline>
   <outline title="Japan" text="Japan" kijiStationName="Japan" kijiEmoji="🍣">
     <outline type="rss" title="BuzzFeed Japan - Yahoo!ニュース" text="BuzzFeed Japan - Yahoo!ニュース" xmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" htmlUrl="https://news.yahoo.co.jp/rss/media/bfj/all.xml" />
