@@ -3,10 +3,30 @@ import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { buildFeedOutline, buildOpmlDocument, sortFeedsByLabel } from './lib/opml.mjs';
+import { buildFeedOutline, buildOpmlDocument, buildStationOutline, sortFeedsByLabel } from './lib/opml.mjs';
 import { COMMON_CATEGORIES } from './lib/categories.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
+const CATEGORY_LABELS = {
+  tech: 'Tech',
+  daily: 'Daily',
+  ai: 'AI',
+  security: 'Security',
+  dev: 'Dev',
+  coins: 'Coins',
+  news: 'News',
+  korea: 'Korea',
+  japan: 'Japan',
+};
+
+const xmlUnescape = (value) =>
+  String(value)
+    .replace(/&apos;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
 
 const parseFeedOutlines = (opmlText) => {
   const feeds = [];
@@ -17,7 +37,7 @@ const parseFeedOutlines = (opmlText) => {
     const attrs = match[1];
     const readAttr = (name) => {
       const attrMatch = attrs.match(new RegExp(`${name}="([^"]*)"`));
-      return attrMatch ? attrMatch[1] : '';
+      return attrMatch ? xmlUnescape(attrMatch[1]) : '';
     };
 
     const xmlUrl = readAttr('xmlUrl');
@@ -31,6 +51,30 @@ const parseFeedOutlines = (opmlText) => {
   }
 
   return feeds;
+};
+
+export const buildRecommendedOpml = async (outputRoot = root) => {
+  const feedsDir = path.join(outputRoot, 'feeds');
+  const bodyLines = [];
+  let stationCount = 0;
+  let feedCount = 0;
+
+  for (const slug of COMMON_CATEGORIES) {
+    const text = await readFile(path.join(feedsDir, `${slug}.opml`), 'utf8');
+    const feeds = parseFeedOutlines(text);
+    if (feeds.length === 0) continue;
+    bodyLines.push(...buildStationOutline({ name: CATEGORY_LABELS[slug], emoji: '' }, feeds));
+    stationCount += 1;
+    feedCount += feeds.length;
+  }
+
+  const document = buildOpmlDocument('KiJi Recommended Feeds', bodyLines, {
+    includeDateModified: false,
+  });
+  const outputPath = path.join(outputRoot, 'recommended.opml');
+  await writeFile(outputPath, document, 'utf8');
+
+  return { outputPath, stationCount, feedCount };
 };
 
 export const aggregateRecommendAll = async (outputRoot = root) => {
@@ -65,4 +109,6 @@ export const aggregateRecommendAll = async (outputRoot = root) => {
 if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1])) {
   const result = await aggregateRecommendAll();
   console.log(`Wrote ${result.outputPath} (${result.feedCount} feeds from ${result.sourceCategories} categories)`);
+  const recommended = await buildRecommendedOpml();
+  console.log(`Wrote ${recommended.outputPath} (${recommended.feedCount} feeds in ${recommended.stationCount} category stations)`);
 }

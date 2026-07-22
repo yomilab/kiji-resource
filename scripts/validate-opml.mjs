@@ -27,7 +27,7 @@ const SPECIAL_FILES = new Set([
 ]);
 
 /** Station-grouped bundles may list the same feed under multiple stations. */
-const MULTI_STATION_FILES = new Set(['feeds/recommend-1.opml', 'feeds/recommend-2.opml']);
+const MULTI_STATION_FILES = new Set(['feeds/recommend-1.opml', 'feeds/recommend-2.opml', 'recommended.opml']);
 
 const categoryXmlUrls = new Map();
 

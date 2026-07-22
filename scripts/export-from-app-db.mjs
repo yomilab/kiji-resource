@@ -112,34 +112,6 @@ export const buildFlatCategoryOpml = (title, feeds) => {
   return buildOpmlDocument(title, bodyLines);
 };
 
-export const buildRecommendedIndexOpml = () => {
-  const categoryLabels = {
-    tech: 'Tech',
-    daily: 'Daily',
-    ai: 'AI',
-    security: 'Security',
-    dev: 'Dev',
-    coins: 'Coins',
-    news: 'News',
-    korea: 'Korea',
-    japan: 'Japan',
-  };
-
-  const commonLines = COMMON_CATEGORIES.map(
-    (slug) =>
-      `  <outline text="${categoryLabels[slug]}" title="${categoryLabels[slug]}" type="rss" xmlUrl="feeds/${slug}.opml" />`,
-  );
-
-  const specialLines = [
-    '  <outline text="HN Popular" title="HN Popular" type="rss" xmlUrl="feeds/hn-popular.opml" />',
-    '  <outline text="Recommend 1" title="Recommend 1" type="rss" xmlUrl="feeds/recommend-1.opml" />',
-    '  <outline text="Recommend 2" title="Recommend 2" type="rss" xmlUrl="feeds/recommend-2.opml" />',
-    '  <outline text="Recommend All" title="Recommend All" type="rss" xmlUrl="feeds/recommend-all.opml" />',
-  ];
-
-  return buildOpmlDocument('KiJi Recommended Feeds', [...commonLines, ...specialLines]);
-};
-
 export const exportFromAppDb = async (dbPath, outputRoot = root) => {
   const { feeds, tags } = loadFeedsFromDb(dbPath);
   const fetchedFeeds = feeds.filter(hasSuccessfulFetch);
@@ -181,7 +153,6 @@ export const exportFromAppDb = async (dbPath, outputRoot = root) => {
       buildStationedOpml('KiJi Recommend 2 (successfully fetched)', fetchedFeeds, tags),
       'utf8',
     ),
-    writeFile(path.join(outputRoot, 'recommended.opml'), buildRecommendedIndexOpml(), 'utf8'),
   );
 
   await Promise.all(writes);
@@ -208,6 +179,6 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.a
   for (const [slug, count] of Object.entries(stats.byCategory)) {
     console.log(`  ${slug}: ${count}`);
   }
-  console.log('Wrote category OPML files, recommend-1, recommend-2, and recommended.opml');
-  console.log('Run npm run aggregate to build recommend-all.opml');
+  console.log('Wrote category OPML files, recommend-1, and recommend-2');
+  console.log('Run npm run aggregate to build recommend-all.opml and recommended.opml');
 }

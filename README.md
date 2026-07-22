@@ -8,7 +8,7 @@ Recommended RSS feeds for KiJi. Browse by topic or import a bundle into the app.
 
 | Category | What's inside | Import | Browse |
 | --- | --- | --- | --- |
-| **Recommended** | Start here — opens every topic below | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/recommended.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/recommended.opml) |
+| **Recommended** | Start here — imports every topic below as stations | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/recommended.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/recommended.opml) |
 | **Tech** | Gadgets, apps, and the people building them | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/tech.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/tech.opml) |
 | **Daily** | Short reads worth keeping in rotation | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/daily.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/daily.opml) |
 | **AI** | Models, tools, and ideas reshaping tech | [Import](https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/ai.opml) | [Browse](https://github.com/yomilab/kiji-resource/blob/main/feeds/ai.opml) |
