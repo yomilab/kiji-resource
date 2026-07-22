@@ -38,3 +38,23 @@ jobs:
             git commit -m "chore: regenerate recommend-all from category feeds"
             git push
           fi
+
+  dispatch-website:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch kiji-website resource sync
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [[ -z "${GH_TOKEN:-}" ]]; then
+            echo "WEBSITE_DISPATCH_TOKEN is not configured; skipping website resource sync."
+            exit 0
+          fi
+          gh api repos/yomilab/kiji-website/dispatches \
+            --method POST \
+            -f event_type=kiji-resource-updated \
+            -f "client_payload[ref]=${GITHUB_SHA}" \
+            -f "client_payload[resource_metadata_url]=https://raw.githubusercontent.com/yomilab/kiji-resource/main/metadata/feeds.json"
