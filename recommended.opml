@@ -2,22 +2,22 @@
 <opml version="2.0">
 <head>
 <title>KiJi Recommended Feeds</title>
-<dateModified>Mon, 15 Jun 2026 03:30:00 GMT</dateModified>
+<dateModified>Wed, 22 Jul 2026 09:55:00 GMT</dateModified>
 </head>
 <body>
-  <outline text="Tech" title="Tech" type="rss" xmlUrl="feeds/tech.opml" />
-  <outline text="Daily" title="Daily" type="rss" xmlUrl="feeds/daily.opml" />
-  <outline text="AI" title="AI" type="rss" xmlUrl="feeds/ai.opml" />
-  <outline text="Security" title="Security" type="rss" xmlUrl="feeds/security.opml" />
-  <outline text="Dev" title="Dev" type="rss" xmlUrl="feeds/dev.opml" />
-  <outline text="Coins" title="Coins" type="rss" xmlUrl="feeds/coins.opml" />
-  <outline text="News" title="News" type="rss" xmlUrl="feeds/news.opml" />
-  <outline text="Korea" title="Korea" type="rss" xmlUrl="feeds/korea.opml" />
-  <outline text="Japan" title="Japan" type="rss" xmlUrl="feeds/japan.opml" />
-  <outline text="HN Popular" title="HN Popular" type="rss" xmlUrl="feeds/hn-popular.opml" />
-  <outline text="Awesome Tech RSS" title="Awesome Tech RSS" type="rss" xmlUrl="feeds/awesome-tech-rss.opml" />
-  <outline text="Recommend 1" title="Recommend 1" type="rss" xmlUrl="feeds/recommend-1.opml" />
-  <outline text="Recommend 2" title="Recommend 2" type="rss" xmlUrl="feeds/recommend-2.opml" />
-  <outline text="Recommend All" title="Recommend All" type="rss" xmlUrl="feeds/recommend-all.opml" />
+  <outline text="Tech" title="Tech" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/tech.opml" />
+  <outline text="Daily" title="Daily" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/daily.opml" />
+  <outline text="AI" title="AI" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/ai.opml" />
+  <outline text="Security" title="Security" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/security.opml" />
+  <outline text="Dev" title="Dev" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/dev.opml" />
+  <outline text="Coins" title="Coins" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/coins.opml" />
+  <outline text="News" title="News" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/news.opml" />
+  <outline text="Korea" title="Korea" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/korea.opml" />
+  <outline text="Japan" title="Japan" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/japan.opml" />
+  <outline text="HN Popular" title="HN Popular" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/hn-popular.opml" />
+  <outline text="Awesome Tech RSS" title="Awesome Tech RSS" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/awesome-tech-rss.opml" />
+  <outline text="Recommend 1" title="Recommend 1" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/recommend-1.opml" />
+  <outline text="Recommend 2" title="Recommend 2" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/recommend-2.opml" />
+  <outline text="Recommend All" title="Recommend All" type="rss" xmlUrl="https://raw.githubusercontent.com/yomilab/kiji-resource/main/feeds/recommend-all.opml" />
 </body>
 </opml>
