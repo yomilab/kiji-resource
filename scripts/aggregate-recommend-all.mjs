@@ -10,7 +10,6 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 const CATEGORY_LABELS = {
   tech: 'Tech',
-  daily: 'Daily',
   ai: 'AI',
   security: 'Security',
   dev: 'Dev',
